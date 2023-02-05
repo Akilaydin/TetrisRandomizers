@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrisRandomizers", "TetrisRandomizers\TetrisRandomizers.csproj", "{B65844DB-38F7-45AA-AC50-2B97D3888064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B65844DB-38F7-45AA-AC50-2B97D3888064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65844DB-38F7-45AA-AC50-2B97D3888064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65844DB-38F7-45AA-AC50-2B97D3888064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65844DB-38F7-45AA-AC50-2B97D3888064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
